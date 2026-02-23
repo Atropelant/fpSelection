@@ -125,6 +125,7 @@ section{
         display: flex;
         justify-content: space-between;
         transform: translate(-50%, -25px);
+        border:none;
        
         
         & button:nth-child(1){
@@ -260,4 +261,5 @@ section{
 
         }
     }
+
 }
